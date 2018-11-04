@@ -3,5 +3,5 @@ Lib/
 Scripts/
 pip-selfcheck.json
 tcl/
-*.log
+ghostdriver.log
 pip-selfcheck.json
